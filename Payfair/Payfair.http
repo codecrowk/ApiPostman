@@ -1,6 +1,0 @@
-@Payfair_HostAddress = http://localhost:5216
-
-GET {{Payfair_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
