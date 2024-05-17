@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Payfair.Models;
 
-namespace ApiPostMan.Data{
+namespace Payfair.Data{
     public class BaseContext : DbContext{
         
     public DbSet<Usuario> Usuarios { get; set; }
