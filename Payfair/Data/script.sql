@@ -6,3 +6,7 @@ CREATE TABLE Usuarios(
     Apellido VARCHAR(155),
     Email VARCHAR(255)
 )
+
+INSERT INTO Usuarios VALUES
+(`Nombre`,`Apellido`,`Email`)
+
